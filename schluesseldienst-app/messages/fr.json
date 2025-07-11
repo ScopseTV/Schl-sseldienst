@@ -1,0 +1,111 @@
+{
+  "Navbar": {
+    "home": "Accueil",
+    "services": "Services",
+    "about": "À propos de nous",
+    "contact": "Contact",
+    "logoText": "Serrurier Rapide"
+  },
+  "Footer": {
+    "companyName": "Serrurier Rapide",
+    "tagline": "Votre partenaire de confiance pour les ouvertures de portes et la technologie de sécurité. Rapide, juste et professionnel.",
+    "contactTitle": "Contact",
+    "phone": "(0123) 456-7890",
+    "email": "info@serrurier-rapide.fr",
+    "address": "Rue Exemple 123, 12345 Ville Exemple",
+    "openingHoursTitle": "Heures d'ouverture",
+    "weekdays": "Lun - Ven: 08:00 - 18:00",
+    "saturday": "Sam: 09:00 - 13:00",
+    "emergencyService": "Service d'urgence 24/7 !",
+    "copyright": "&copy; {currentYear} Serrurier Rapide. Tous droits réservés.",
+    "imprint": "Mentions légales",
+    "privacy": "Politique de confidentialité"
+  },
+  "HeroSection": {
+    "title": "Porte claquée ? Nous aidons immédiatement !",
+    "subtitle": "Votre serrurier 24/7 – Rapide, fiable et juste.",
+    "callButton": "Appeler le service d'urgence",
+    "servicesButton": "Nos services",
+    "availability": "Sur place en env. 20-30 minutes à Ville Exemple et ses environs."
+  },
+  "ServicesSection": {
+    "title": "Aperçu de nos services",
+    "subtitle": "Nous vous offrons une large gamme de services liés aux clés et à la sécurité.",
+    "services": [
+      {
+        "iconKey": "doorOpenings",
+        "title": "Ouvertures de portes",
+        "description": "Ouverture rapide et sans dommage de portes de maison, d'appartement et de voiture."
+      },
+      {
+        "iconKey": "burglaryProtection",
+        "title": "Protection anti-effraction",
+        "description": "Conseil et installation de technologies de sécurité, verrous blindés et systèmes d'alarme."
+      },
+      {
+        "iconKey": "carOpening",
+        "title": "Ouverture de voitures",
+        "description": "Ouverture professionnelle de tous types de véhicules sans endommager la peinture."
+      },
+      {
+        "iconKey": "lockingSystems",
+        "title": "Systèmes de fermeture",
+        "description": "Planification et installation de systèmes de fermeture pour particuliers et professionnels."
+      },
+      {
+        "iconKey": "repairs",
+        "title": "Réparations",
+        "description": "Réparation de serrures défectueuses et élimination des dommages dus à une effraction."
+      },
+      {
+        "iconKey": "otherServices",
+        "title": "Autres services",
+        "description": "Ouvertures de coffres-forts, installations de boîtes aux lettres et plus sur demande."
+      }
+    ]
+  },
+  "AboutUsSection": {
+    "title": "Qui nous sommes",
+    "subtitle": "Votre partenaire de confiance en matière de sécurité – depuis plus de 10 ans.",
+    "paragraph1": "Bienvenue chez Serrurier Rapide ! Depuis notre création en [Année de création], nous nous sommes spécialisés dans la fourniture à nos clients de [Votre Ville/Région] et des environs de solutions rapides, professionnelles et justes pour les ouvertures de portes et la technologie de sécurité.",
+    "paragraph2": "Notre équipe est composée de techniciens expérimentés et certifiés, régulièrement formés pour rester à la pointe de la technologie. Nous comprenons qu'une porte verrouillée ou un problème de sécurité engendre du stress. C'est pourquoi nous accordons la plus grande importance au traitement rapide de votre demande et à une tarification transparente.",
+    "feature1Title": "Expérience & Compétence",
+    "feature1Text": "Des années d'expérience dans le secteur et des professionnels hautement qualifiés.",
+    "feature2Title": "Orienté client",
+    "feature2Text": "Votre satisfaction est notre priorité absolue.",
+    "paragraph3": "Nous sommes fiers d'être une entreprise ancrée localement et nous nous réjouissons de vous aider avec notre expertise.",
+    "imageAlt": "Photo d'équipe ou devanture du Serrurier Rapide"
+  },
+  "ContactSection": {
+    "title": "Contactez-nous",
+    "subtitle": "Avez-vous des questions ou besoin d'une aide urgente ? Nous sommes là pour vous !",
+    "directContactTitle": "Ligne directe",
+    "callUs": "Appelez-nous (Service d'urgence 24/7) :",
+    "callUsInfo": "Disponible à tout moment pour les cas urgents.",
+    "emailUs": "Envoyez-nous un e-mail :",
+    "locationTitle": "Notre emplacement :",
+    "addressLine1": "Rue Exemple 123",
+    "addressLine2": "12345 Ville Exemple",
+    "openingHoursTitle": "Heures d'ouverture régulières :",
+    "weekdays": "Lun - Ven: 08:00 - 18:00",
+    "saturday": "Sam: 09:00 - 13:00",
+    "formTitle": "Envoyer un message",
+    "formNameLabel": "Votre nom",
+    "formNamePlaceholder": "Jean Dupont",
+    "formEmailLabel": "Adresse e-mail",
+    "formEmailPlaceholder": "jean.dupont@example.com",
+    "formPhoneLabel": "Numéro de téléphone (facultatif)",
+    "formPhonePlaceholder": "Votre numéro de téléphone",
+    "formMessageLabel": "Votre message",
+    "formMessagePlaceholder": "Comment pouvons-nous vous aider ?",
+    "formSubmitButton": "Envoyer le message",
+    "formDisclaimer": "Remarque : Ceci est un formulaire de démonstration. Aucune donnée ne sera envoyée."
+  },
+  "LanguageSwitcher": {
+    "changeLanguage": "Changer de langue"
+  },
+  "Metadata": {
+    "title": "Serrurier Rapide | Votre partenaire en cas de besoin",
+    "description": "Service de serrurerie professionnel pour ouvertures de portes, protection anti-effraction et plus à [Votre Ville/Région]. Rapide, fiable et juste."
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "Navbar": {
+    "home": "Home",
+    "services": "Leistungen",
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "logoText": "Schlüsseldienst Schnell"
+  },
+  "Footer": {
+    "companyName": "Schlüsseldienst Schnell",
+    "tagline": "Ihr zuverlässiger Partner für Türöffnungen und Sicherheitstechnik. Schnell, fair und professionell.",
+    "contactTitle": "Kontakt",
+    "phone": "(0123) 456-7890",
+    "email": "info@schluesseldienst-schnell.de",
+    "address": "Musterstraße 123, 12345 Musterstadt",
+    "openingHoursTitle": "Öffnungszeiten",
+    "weekdays": "Mo - Fr: 08:00 - 18:00 Uhr",
+    "saturday": "Sa: 09:00 - 13:00 Uhr",
+    "emergencyService": "24/7 Notdienst!",
+    "copyright": "&copy; {currentYear} Schlüsseldienst Schnell. Alle Rechte vorbehalten.",
+    "imprint": "Impressum",
+    "privacy": "Datenschutz"
+  },
+  "HeroSection": {
+    "title": "Ausgesperrt? Wir helfen sofort!",
+    "subtitle": "Ihr 24/7 Schlüsseldienst – Schnell, zuverlässig und fair.",
+    "callButton": "Jetzt Notdienst anrufen",
+    "servicesButton": "Unsere Leistungen",
+    "availability": "In ca. 20-30 Minuten bei Ihnen vor Ort in Musterstadt und Umgebung."
+  },
+  "ServicesSection": {
+    "title": "Unsere Leistungen im Überblick",
+    "subtitle": "Wir bieten Ihnen ein breites Spektrum an Dienstleistungen rund um Schlüssel und Sicherheit.",
+    "services": [
+      {
+        "iconKey": "doorOpenings",
+        "title": "Türöffnungen",
+        "description": "Schnelle und beschädigungsfreie Öffnung von Haus-, Wohnungs- und Autotüren."
+      },
+      {
+        "iconKey": "burglaryProtection",
+        "title": "Einbruchschutz",
+        "description": "Beratung und Montage von Sicherheitstechnik, Panzerriegeln und Alarmanlagen."
+      },
+      {
+        "iconKey": "carOpening",
+        "title": "Autoöffnung",
+        "description": "Professionelle Öffnung aller Fahrzeugtypen ohne Lackschäden."
+      },
+      {
+        "iconKey": "lockingSystems",
+        "title": "Schließanlagen",
+        "description": "Planung und Einbau von Schließsystemen für Privat und Gewerbe."
+      },
+      {
+        "iconKey": "repairs",
+        "title": "Reparaturen",
+        "description": "Reparatur von defekten Schlössern und Beseitigung von Einbruchschäden."
+      },
+      {
+        "iconKey": "otherServices",
+        "title": "Weitere Dienste",
+        "description": "Tresoröffnungen, Briefkastenanlagen und mehr auf Anfrage."
+      }
+    ]
+  },
+  "AboutUsSection": {
+    "title": "Wer wir sind",
+    "subtitle": "Ihr vertrauenswürdiger Partner in Sachen Sicherheit – seit über 10 Jahren.",
+    "paragraph1": "Herzlich willkommen bei Schlüsseldienst Schnell! Seit unserer Gründung im Jahr [Gründungsjahr einfügen] haben wir uns darauf spezialisiert, unseren Kunden in [Ihre Stadt/Region] und Umgebung schnelle, professionelle und faire Lösungen rund um Türöffnungen und Sicherheitstechnik zu bieten.",
+    "paragraph2": "Unser Team besteht aus erfahrenen und zertifizierten Monteuren, die regelmäßig geschult werden, um stets auf dem neuesten Stand der Technik zu sein. Wir verstehen, dass eine ausgesperrte Tür oder ein Sicherheitsproblem Stress verursacht. Deshalb legen wir größten Wert auf eine zügige Bearbeitung Ihres Anliegens und eine transparente Preisgestaltung.",
+    "feature1Title": "Erfahrung & Kompetenz",
+    "feature1Text": "Langjährige Branchenerfahrung und top ausgebildete Fachkräfte.",
+    "feature2Title": "Kundenorientiert",
+    "feature2Text": "Ihre Zufriedenheit steht bei uns an erster Stelle.",
+    "paragraph3": "Wir sind stolz darauf, ein lokal verankertes Unternehmen zu sein und freuen uns darauf, auch Ihnen mit unserer Expertise zur Seite zu stehen.",
+    "imageAlt": "Teamfoto oder Geschäftsansicht des Schlüsseldienstes Schnell"
+  },
+  "ContactSection": {
+    "title": "Kontaktieren Sie uns",
+    "subtitle": "Haben Sie Fragen oder benötigen Sie dringend Hilfe? Wir sind für Sie da!",
+    "directContactTitle": "Direkter Draht",
+    "callUs": "Rufen Sie uns an (24/7 Notdienst):",
+    "callUsInfo": "Für dringende Fälle jederzeit erreichbar.",
+    "emailUs": "Schreiben Sie uns eine E-Mail:",
+    "locationTitle": "Unser Standort:",
+    "addressLine1": "Musterstraße 123",
+    "addressLine2": "12345 Musterstadt",
+    "openingHoursTitle": "Reguläre Öffnungszeiten:",
+    "weekdays": "Mo - Fr: 08:00 - 18:00 Uhr",
+    "saturday": "Sa: 09:00 - 13:00 Uhr",
+    "formTitle": "Nachricht senden",
+    "formNameLabel": "Ihr Name",
+    "formNamePlaceholder": "Max Mustermann",
+    "formEmailLabel": "E-Mail-Adresse",
+    "formEmailPlaceholder": "max.mustermann@example.com",
+    "formPhoneLabel": "Telefonnummer (optional)",
+    "formPhonePlaceholder": "Ihre Telefonnummer",
+    "formMessageLabel": "Ihre Nachricht",
+    "formMessagePlaceholder": "Wie können wir Ihnen helfen?",
+    "formSubmitButton": "Nachricht absenden",
+    "formDisclaimer": "Hinweis: Dies ist ein Demo-Formular. Es werden keine Daten gesendet."
+  },
+  "LanguageSwitcher": {
+    "changeLanguage": "Sprache wechseln"
+  },
+  "Metadata": {
+    "title": "Schlüsseldienst Schnell | Ihr Partner in Not",
+    "description": "Professioneller Schlüsseldienst für Türöffnungen, Einbruchschutz und mehr in [Ihre Stadt/Region]. Schnell, zuverlässig und fair."
+  }
+}

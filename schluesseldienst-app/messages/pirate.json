@@ -1,0 +1,111 @@
+{
+  "Navbar": {
+    "home": "Heimathafen",
+    "services": "Dublonen-Dienste",
+    "about": "Über uns Seebären",
+    "contact": "Flaschenpost",
+    "logoText": "Kaperfahrt-Schlüsselmeisterei"
+  },
+  "Footer": {
+    "companyName": "Kaperfahrt-Schlüsselmeisterei",
+    "tagline": "Eure treue Crew für geknackte Schlösser un' sichere Schatztruhen! Flink wie 'n Wiesel, fair wie 'n ehrlicher Handel!",
+    "contactTitle": "Signalfeuer",
+    "phone": "(0123) K-A-P-E-R-N",
+    "email": "kapitaen@kaperfahrt-schluessel.arrr",
+    "address": "Letzte Kaschemme vor Tortuga, Hafenbecken 3",
+    "openingHoursTitle": "Wachzeiten",
+    "weekdays": "Von Sonnenaufgang bis Sonnenuntergang, außer bei Flaute",
+    "saturday": "Wenn der Rum fließt (halber Tag)",
+    "emergencyService": "24/7 Notruf für alle Klabautermänner!",
+    "copyright": "&copy; {currentYear} Kaperfahrt-Schlüsselmeisterei. Alle Schätze gesichert.",
+    "imprint": "Seekarte",
+    "privacy": "Geheimkodex der Bruderschaft"
+  },
+  "HeroSection": {
+    "title": "Verschollen vor der eigenen Kajüte? Wir entern das Problem!",
+    "subtitle": "Euer 24/7 Schlüssel-Kommando – Flink, verlässlich und immer 'ne Buddel Rum wert!",
+    "callButton": "Signal zum Entern geben!",
+    "servicesButton": "Unsere Beutezüge",
+    "availability": "In 20-30 Herzschlägen bei Euch, Ihr Landratten und Seeräuber!"
+  },
+  "ServicesSection": {
+    "title": "Was wir für Euch an Bord haben",
+    "subtitle": "Wir haben für jede knifflige Kiste und jedes verflixte Schloss den passenden Haken.",
+    "services": [
+      {
+        "iconKey": "doorOpenings",
+        "title": "Schlossknacker-Service",
+        "description": "Flinkes Öffnen von Türen zu Kajüten, Kombüsen und Kisten – ohne 'ne Planke zu zerbrechen!"
+      },
+      {
+        "iconKey": "burglaryProtection",
+        "title": "Schutz vor Langfingern",
+        "description": "Beratung und Anbringung von solidem Holz und Eisen gegen feindliche Enterhaken."
+      },
+      {
+        "iconKey": "carOpening",
+        "title": "Kutschen-Aufbruch",
+        "description": "Meisterliches Öffnen von jeder Art von Landkutsche, ohne Kratzer im Lack."
+      },
+      {
+        "iconKey": "lockingSystems",
+        "title": "Generalschlüssel-Systeme",
+        "description": "Schlaue Schlüsselpläne für Euer Schiff oder Eure ganze Flotte."
+      },
+      {
+        "iconKey": "repairs",
+        "title": "Flickwerk",
+        "description": "Reparatur von kaputten Schlössern und Ausbessern von Schäden durch Halunken."
+      },
+      {
+        "iconKey": "otherServices",
+        "title": "Spezial-Kaperfahrten",
+        "description": "Öffnen von Schatztruhen, Postkästen und was sonst noch klemmt, auf Anfrage, Mateys!"
+      }
+    ]
+  },
+  "AboutUsSection": {
+    "title": "Wer wir Halunken sind",
+    "subtitle": "Eure zuverlässigste Bande, wenn's um Schlüssel geht – seit über 10 Gezeitenwechseln!",
+    "paragraph1": "Willkommen an Bord der Kaperfahrt-Schlüsselmeisterei! Seit wir das erste Mal die Segel setzten im Jahre des [Gründungsjahr einfügen], haben wir uns darauf spezialisiert, den Seebären und Landratten in [Eure Hafenstadt/Seegebiet] und Umgebung mit schnellen, professionellen und fairen Lösungen bei verschlossenen Türen und Sicherheitsproblemen beizustehen.",
+    "paragraph2": "Unsere Crew besteht aus erfahrenen Hakenmännern und Schlossforschern, die regelmäßig in den neuesten Kniffen unterwiesen werden. Wir wissen, dass 'ne verschlossene Tür oder 'n Loch in der Schiffswand fürchterlich nervt. Darum legen wir größten Wert auf schnelle Hilfe und ehrliche Preise, bei Klabautermann!",
+    "feature1Title": "Erfahrung & Geschick",
+    "feature1Text": "Jahrelange Kaperfahrten und 'ne Crew, die jeden Trick kennt.",
+    "feature2Title": "Für die Mannschaft",
+    "feature2Text": "Eure Zufriedenheit ist unser größter Schatz.",
+    "paragraph3": "Wir sind stolz, 'ne echte Hafenbande zu sein und freuen uns, auch Euch bald an Bord begrüßen zu dürfen!",
+    "imageAlt": "Die wilde Crew der Kaperfahrt-Schlüsselmeisterei vor ihrem Schiff"
+  },
+  "ContactSection": {
+    "title": "Sendet 'ne Flaschenpost!",
+    "subtitle": "Habt Ihr Fragen oder braucht Ihr dringend 'nen Haken? Wir sind klar zum Entern!",
+    "directContactTitle": "Direktes Signalfeuer",
+    "callUs": "Ruft den Ausguck (24/7 Not-Enterkommando):",
+    "callUsInfo": "Für dringende Fälle immer 'ne Handbreit Wasser unterm Kiel.",
+    "emailUs": "Schickt 'nen Papagei mit Nachricht:",
+    "locationTitle": "Unser Versteck:",
+    "addressLine1": "Letzte Kaschemme vor Tortuga",
+    "addressLine2": "Hafenbecken 3, irgendwo in den Sieben Weltmeeren",
+    "openingHoursTitle": "Unsere Wachzeiten:",
+    "weekdays": "Von Sonnenaufgang bis zum letzten Schluck Rum",
+    "saturday": "Wenn der Smutje frei hat",
+    "formTitle": "Nachricht in die Buddel",
+    "formNameLabel": "Euer Name, Ihr Seebären",
+    "formNamePlaceholder": "Käpt'n Einauge",
+    "formEmailLabel": "Eure E-Mail-Kajüte",
+    "formEmailPlaceholder": "kaeptn@meuterei.arrr",
+    "formPhoneLabel": "Euer Rufrohr (wenn's sein muss)",
+    "formPhonePlaceholder": "Eure Nummer für's Signalfeuer",
+    "formMessageLabel": "Eure geheime Botschaft",
+    "formMessagePlaceholder": "Was liegt Euch auf dem Herzen, Matey?",
+    "formSubmitButton": "Flaschenpost abschicken!",
+    "formDisclaimer": "Achtung: Dies ist nur 'ne Übung! Keine echte Flaschenpost erreicht Land."
+  },
+  "LanguageSwitcher": {
+    "changeLanguage": "Logbuch umschreiben"
+  },
+  "Metadata": {
+    "title": "Kaperfahrt-Schlüsselmeisterei | Eure Retter in der Not!",
+    "description": "Professionelle Schlossknacker für alle Türen, Schatzkisten und mehr in [Eurem Seegebiet]. Schnell, zuverlässig und immer 'nen Schatz wert!"
+  }
+}

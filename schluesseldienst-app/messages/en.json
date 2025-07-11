@@ -1,0 +1,111 @@
+{
+  "Navbar": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About Us",
+    "contact": "Contact",
+    "logoText": "Locksmith Quick"
+  },
+  "Footer": {
+    "companyName": "Locksmith Quick",
+    "tagline": "Your reliable partner for door openings and security technology. Fast, fair, and professional.",
+    "contactTitle": "Contact",
+    "phone": "(0123) 456-7890",
+    "email": "info@locksmith-quick.com",
+    "address": "Sample Street 123, 12345 Sample City",
+    "openingHoursTitle": "Opening Hours",
+    "weekdays": "Mon - Fri: 08:00 AM - 06:00 PM",
+    "saturday": "Sat: 09:00 AM - 01:00 PM",
+    "emergencyService": "24/7 Emergency Service!",
+    "copyright": "&copy; {currentYear} Locksmith Quick. All rights reserved.",
+    "imprint": "Imprint",
+    "privacy": "Privacy Policy"
+  },
+  "HeroSection": {
+    "title": "Locked out? We help immediately!",
+    "subtitle": "Your 24/7 locksmith service – Fast, reliable, and fair.",
+    "callButton": "Call Emergency Service Now",
+    "servicesButton": "Our Services",
+    "availability": "On site in approx. 20-30 minutes in Sample City and surroundings."
+  },
+  "ServicesSection": {
+    "title": "Our Services at a Glance",
+    "subtitle": "We offer a wide range of services related to keys and security.",
+    "services": [
+      {
+        "iconKey": "doorOpenings",
+        "title": "Door Openings",
+        "description": "Fast and damage-free opening of house, apartment, and car doors."
+      },
+      {
+        "iconKey": "burglaryProtection",
+        "title": "Burglary Protection",
+        "description": "Consultation and installation of security technology, deadbolts, and alarm systems."
+      },
+      {
+        "iconKey": "carOpening",
+        "title": "Car Opening",
+        "description": "Professional opening of all vehicle types without paint damage."
+      },
+      {
+        "iconKey": "lockingSystems",
+        "title": "Locking Systems",
+        "description": "Planning and installation of locking systems for private and commercial use."
+      },
+      {
+        "iconKey": "repairs",
+        "title": "Repairs",
+        "description": "Repair of defective locks and removal of burglary damage."
+      },
+      {
+        "iconKey": "otherServices",
+        "title": "Other Services",
+        "description": "Safe openings, mailbox systems, and more on request."
+      }
+    ]
+  },
+  "AboutUsSection": {
+    "title": "Who We Are",
+    "subtitle": "Your trustworthy partner in security – for over 10 years.",
+    "paragraph1": "Welcome to Locksmith Quick! Since our founding in [Founding Year], we have specialized in providing our customers in [Your City/Region] and the surrounding area with fast, professional, and fair solutions for door openings and security technology.",
+    "paragraph2": "Our team consists of experienced and certified technicians who are regularly trained to stay up-to-date with the latest technology. We understand that a locked door or a security problem causes stress. That's why we place the highest value on processing your request quickly and on transparent pricing.",
+    "feature1Title": "Experience & Competence",
+    "feature1Text": "Years of industry experience and highly trained professionals.",
+    "feature2Title": "Customer-Oriented",
+    "feature2Text": "Your satisfaction is our top priority.",
+    "paragraph3": "We are proud to be a locally anchored company and look forward to assisting you with our expertise.",
+    "imageAlt": "Team photo or storefront of Locksmith Quick"
+  },
+  "ContactSection": {
+    "title": "Contact Us",
+    "subtitle": "Do you have questions or need urgent help? We are here for you!",
+    "directContactTitle": "Direct Line",
+    "callUs": "Call us (24/7 Emergency Service):",
+    "callUsInfo": "Available anytime for urgent cases.",
+    "emailUs": "Send us an email:",
+    "locationTitle": "Our Location:",
+    "addressLine1": "Sample Street 123",
+    "addressLine2": "12345 Sample City",
+    "openingHoursTitle": "Regular Opening Hours:",
+    "weekdays": "Mon - Fri: 08:00 AM - 06:00 PM",
+    "saturday": "Sat: 09:00 AM - 01:00 PM",
+    "formTitle": "Send Message",
+    "formNameLabel": "Your Name",
+    "formNamePlaceholder": "John Doe",
+    "formEmailLabel": "Email Address",
+    "formEmailPlaceholder": "john.doe@example.com",
+    "formPhoneLabel": "Phone Number (optional)",
+    "formPhonePlaceholder": "Your phone number",
+    "formMessageLabel": "Your Message",
+    "formMessagePlaceholder": "How can we help you?",
+    "formSubmitButton": "Send Message",
+    "formDisclaimer": "Note: This is a demo form. No data will be sent."
+  },
+  "LanguageSwitcher": {
+    "changeLanguage": "Change Language"
+  },
+  "Metadata": {
+    "title": "Locksmith Quick | Your Partner in Need",
+    "description": "Professional locksmith service for door openings, burglary protection, and more in [Your City/Region]. Fast, reliable, and fair."
+  }
+}
