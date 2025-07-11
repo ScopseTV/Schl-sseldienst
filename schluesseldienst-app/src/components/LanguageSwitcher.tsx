@@ -1,8 +1,8 @@
 'use client';
 
 import { useLocale, useTranslations } from 'next-intl';
-import { useRouter, usePathname } from 'next/navigation'; // usePathname von next/navigation
-import { locales } from '@/i18n'; // Annahme: i18n.ts ist in src
+import { useRouter, usePathname } from 'next/navigation';
+import { locales } from '../../i18n'; // Pfad zum Projekt-Root angepasst
 import { Globe } from 'lucide-react';
 import { useState, useRef, useEffect } from 'react';
 
